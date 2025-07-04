@@ -81,9 +81,10 @@ LITTLE BM CONTROLS CONNECTIONS DEACRIPTION
 	17)	OPTIC THERAMIN SWITCH:	switches the LDR on and off for the use as a 
 						optic-theramin.
 
-PARTS LIST    -arduino nano, uno or compatable clones
-              -lm386 audio power amplifier
-              -8 leg ic socket
+PARTS LIST
+	      arduino nano, uno or compatable clones
+              lm386 audio power amplifier
+              8 leg ic socket
               -8 10k potentiometers
               -6 spdt switches
               -3 .33 mm jacks
