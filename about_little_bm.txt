@@ -1,0 +1,16 @@
+ABOUT LITTLE BM
+
+	Little BM is a simple DIY portable microcontroller based FM synthesizer designed to be simple, cheap and easy to build, with a variety of sounds to play with. 
+	
+	It can be powered by a 9 volt battery or a 9v DC psu.
+
+	Little BM uses bitwise (OR and XOR)frequency modulation with a sync mode to produce a wide variety of sounds. 
+	
+	It has a simple LF0 with frequency control and 4 wavforms at 2 resolution rates (lower res waves for faster frequencies). 
+	
+	It has tremelo control with waveform inversion and vibrato with 4 bit PAM (pulse amplitude modulation) linear output. 
+	
+	The design has a line level/headphone output and a speaker output powered by a lm386 audio amplifier. 
+	
+	The Little BM is designed to be a portable knob controlled drone synth with a built in ldr for use as a optic_theramin.
+
