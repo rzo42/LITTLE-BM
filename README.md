@@ -16,6 +16,7 @@ ABOUT LITTLE BM
 	
 	The Little BM is designed to be a portable knob controlled drone synth with a built in ldr for use as a optic_theramin.
 
+DEMO VIDEO: https://youtu.be/fAodontPk5w?si=yUKphDWySng2WA6I
 
 LITTLE BM CONTROLS CONNECTIONS DEACRIPTION
 
