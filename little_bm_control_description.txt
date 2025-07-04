@@ -1,0 +1,68 @@
+LITTLE BM CONTROLS CONNECTIONS DEACRIPTION
+
+	1)	POWER INPUT: 9v DC through .33 mm phono jack. 
+		
+					It can be powered with 7v-12v DC but is designed to run off
+						of a9v battery or 9v psu.
+
+					The board can be powered with the microcontrollers usb port
+						if not using the amplified speaker output. Poweing the
+						amplifier off the microcontroller would likeley damage
+						the microcontroller, lm386, other componants and other
+						equipment that you may be plugged in to.
+
+	2)	AUXILLARY/HEAD PHONE AUDIO OUTPUt:	.33 mm jack for mono audio output.
+						this will work with headphones and auxillary line level
+						inputs.
+
+	3)	SPEAKER OUTPUT:	Amplified audio output designed to power a 4ohm to 
+						8ohm speaker. 
+
+	4)	POWER SWITCH:	Toggles external power on/off.
+
+	5)	AUXILLARY/HEADPHONE VOLUME CONTROL:	Controls aux/headphone output
+						volume. Aways start with the volume low and work up to a
+						comftorable audible level. High volume levels may
+						damage hearing or equipment.
+
+	6)	SPEAKER OUTPUT GAIN: Controls volume level on spekaer output.
+						Keep potentiometer below 20% for clean
+						sound. Above 20% will produce distortion.
+
+	7)	AUXILLARY/SPEAKER OUTPUT SWITCH:	Toggles between aux/headphone and
+						speaker output.
+
+	8)	PITCH CONTROL:	controls the carrier frequency. 5 octave note range.
+						use to tune optic-theramin when ldr is switched on.
+
+	9)	FM CONTROL:		controls the modulation frequency. 2 octave range.
+						modulator frequency is linked to the carriers frequency.
+						{fm_frequency}+={carrier_frequency}
+
+	10)	TREMELO DEPTH:	Controls tremelo depth level divided down from lfo shape
+						and added to pitch (carrier frequency).
+
+	11)	LFO SPEED:		Controls the frequency of the LFO.
+
+	12)	LFO SHAPE:		Controls LFO shape output.
+							shapes 0-3...square, triangle, saw, ramp @ 16 byte
+							samples. (speed*1)
+							shapes 4-7...square, triangle, saw, ramp @ 8 byte
+							samples. (speed*2)
+
+	13)	VIBRATO DEPTH:	Controls vibrato depth level divided down from lfo shape
+						and subtracted from peak gain.
+
+	14) OR/XOR MODE SWITCH:	Toggles or/xor fm modes.
+
+	15) FM SYNC SWITCH: Toggles frequency synchronization.
+
+	16)	TREMELO INVERSION SWITCH: inverts the tremelo from positive to negative.
+
+	17)	OPTIC THERAMIN SWITCH:	switches the LDR on and off for the use as a 
+						optic-theramin.
+
+
+
+
+
